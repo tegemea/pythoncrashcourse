@@ -1,0 +1,2 @@
+number = 9
+print("My favourite number is " + str(number))
